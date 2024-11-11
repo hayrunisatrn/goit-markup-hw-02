@@ -85,21 +85,6 @@ body {
     color: #404bbf;
 }
 
-.tel_ {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.tel_:hover {
-    color: #404bbf;
-}
-
-.tel_:focus {
-    color: #404bbf;
-}
-
 .address_list {
     list-style-type: none;
     padding: 0;
@@ -149,7 +134,7 @@ body {
     cursor: pointer;
 }
 
-.about_tab1 {
+.about_table {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -157,7 +142,13 @@ body {
     color: #2e2f42;
 }
 
-.about_tab2 {
+.about_p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.about_ta {
     list-style-type: none;
     padding: 0;
     margin: 0;
