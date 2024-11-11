@@ -5,7 +5,7 @@ body {
 }
 
 .logo_web {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -112,6 +112,10 @@ body {
     margin: 0;
 }
 
+.title-main {
+    background-color: #2E2F42;
+}
+
 .title_effective {
     height: 600px;
     width: 1440px;
@@ -120,7 +124,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    background-color: #2e2f42;
+    background-color: #2E2F42;
 }
 
 .button_order {
@@ -174,7 +178,7 @@ body {
     margin: 0;
 }
 
-.team-tab1 {
+.team-tab {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -187,4 +191,8 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.portfolio {
+    background-color: #f4f4fd;
 }
