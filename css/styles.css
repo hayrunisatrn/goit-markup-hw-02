@@ -113,11 +113,14 @@ body {
 }
 
 .title_effective {
+    height: 600px;
+    width: 1440px;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    background-color: #2e2f42;
 }
 
 .button_order {
@@ -140,4 +143,41 @@ body {
 
 .button_order {
     cursor: pointer;
+}
+
+.about_tab1 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.about_tab2 {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.our-team {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.our-team-tab {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.team-tab1 {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
