@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", "Ralevay" sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -110,4 +110,34 @@ body {
     list-style-type: none;
     padding: 0;
     margin: 0;
+}
+
+.title_effective {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.button_order {
+    background-color: #4d5ae5;
+    font-family: "Roboro" sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.button_order:hover {
+    background-color: #404bbf;
+}
+
+.button_order:focus {
+    background-color: #404bbf;
+}
+
+.button_order {
+    cursor: pointer;
 }
