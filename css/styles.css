@@ -85,14 +85,6 @@ body {
     color: #404bbf;
 }
 
-.address_list {
-    list-style-type: none;
-}
-
-.nav_list {
-    list-style-type: none;
-}
-
 .title-main {
     background-color: #2E2F42;
 }
@@ -142,10 +134,6 @@ body {
     letter-spacing: 0.02em;
 }
 
-.about_ta {
-    list-style-type: none;
-}
-
 .our-team {
     font-size: 36px;
     line-height: 1.11;
@@ -163,10 +151,6 @@ body {
     background-color: #FFFFFF;
 }
 
-.our-team-tab {
-    list-style-type: none;
-}
-
 .team-tab {
     font-size: 20px;
     font-weight: 500;
@@ -180,10 +164,6 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-.portfolio-list1 {
-    list-style-type: none;
 }
 
 .our-portfolio {
